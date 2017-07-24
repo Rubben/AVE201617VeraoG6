@@ -25,7 +25,7 @@ namespace AveTrabalho2.Mapping
             {
                 string a = aux.Name;
                 PropertyInfo transToProperty = t2.GetProperty(a);
-                if (transToProperty != null)
+                if (transToProperty != null && aux.GetValue(transfrom) != null && transToProperty.PropertyType == aux.PropertyType)
                 {
 
                     if ((aux.PropertyType.IsPrimitive && transToProperty.PropertyType.IsPrimitive) || (aux.PropertyType==typeof(string) && transToProperty.PropertyType == typeof(string)))

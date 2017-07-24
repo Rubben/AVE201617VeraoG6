@@ -6,3 +6,11 @@ C:\Users\Rúben Miranda\Desktop\AVE_1617v_LI41D_G6_SE2_31424\AveTrabalho3\UnitTe
 C:\Users\Rúben Miranda\Desktop\AVE_1617v_LI41D_G6_SE2_31424\AveTrabalho3\UnitTestProject2\obj\Debug\UnitTestProject2.csprojResolveAssemblyReference.cache
 C:\Users\Rúben Miranda\Desktop\AVE_1617v_LI41D_G6_SE2_31424\AveTrabalho3\UnitTestProject2\obj\Debug\UnitTestProject2.dll
 C:\Users\Rúben Miranda\Desktop\AVE_1617v_LI41D_G6_SE2_31424\AveTrabalho3\UnitTestProject2\obj\Debug\UnitTestProject2.pdb
+C:\Users\Rúben Miranda\Desktop\AVE_1617v_LI41D_G6_SE2_31424\Git\AVE201617VeraoG6\UnitTestProject2\bin\Debug\UnitTestProject2.dll
+C:\Users\Rúben Miranda\Desktop\AVE_1617v_LI41D_G6_SE2_31424\Git\AVE201617VeraoG6\UnitTestProject2\bin\Debug\UnitTestProject2.pdb
+C:\Users\Rúben Miranda\Desktop\AVE_1617v_LI41D_G6_SE2_31424\Git\AVE201617VeraoG6\UnitTestProject2\bin\Debug\ConsoleApplication2.exe
+C:\Users\Rúben Miranda\Desktop\AVE_1617v_LI41D_G6_SE2_31424\Git\AVE201617VeraoG6\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Rúben Miranda\Desktop\AVE_1617v_LI41D_G6_SE2_31424\Git\AVE201617VeraoG6\UnitTestProject2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\Rúben Miranda\Desktop\AVE_1617v_LI41D_G6_SE2_31424\Git\AVE201617VeraoG6\UnitTestProject2\obj\Debug\UnitTestProject2.csprojResolveAssemblyReference.cache
+C:\Users\Rúben Miranda\Desktop\AVE_1617v_LI41D_G6_SE2_31424\Git\AVE201617VeraoG6\UnitTestProject2\obj\Debug\UnitTestProject2.dll
+C:\Users\Rúben Miranda\Desktop\AVE_1617v_LI41D_G6_SE2_31424\Git\AVE201617VeraoG6\UnitTestProject2\obj\Debug\UnitTestProject2.pdb
