@@ -1,0 +1,24 @@
+C:\Users\mari_\Desktop\AVE_1617v_LI41D_G6_SE2_31424\AveTrabalho2\MappetTests\obj\Debug\MappetTests.csprojResolveAssemblyReference.cache
+C:\Users\mari_\Desktop\AVE_1617v_LI41D_G6_SE2_31424\AveTrabalho2\MappetTests\bin\Debug\MappetTests.dll
+C:\Users\mari_\Desktop\AVE_1617v_LI41D_G6_SE2_31424\AveTrabalho2\MappetTests\bin\Debug\MappetTests.pdb
+C:\Users\mari_\Desktop\AVE_1617v_LI41D_G6_SE2_31424\AveTrabalho2\MappetTests\bin\Debug\ConsoleApplication2.exe
+C:\Users\mari_\Desktop\AVE_1617v_LI41D_G6_SE2_31424\AveTrabalho2\MappetTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\mari_\Desktop\AVE_1617v_LI41D_G6_SE2_31424\AveTrabalho2\MappetTests\bin\Debug\ConsoleApplication2.pdb
+C:\Users\mari_\Desktop\AVE_1617v_LI41D_G6_SE2_31424\AveTrabalho2\MappetTests\obj\Debug\MappetTests.dll
+C:\Users\mari_\Desktop\AVE_1617v_LI41D_G6_SE2_31424\AveTrabalho2\MappetTests\obj\Debug\MappetTests.pdb
+C:\Users\Rúben Miranda\Desktop\AVE_1617v_LI41D_G6_SE2_31424\AveTrabalho2\MappetTests\bin\Debug\MappetTests.dll
+C:\Users\Rúben Miranda\Desktop\AVE_1617v_LI41D_G6_SE2_31424\AveTrabalho2\MappetTests\bin\Debug\MappetTests.pdb
+C:\Users\Rúben Miranda\Desktop\AVE_1617v_LI41D_G6_SE2_31424\AveTrabalho2\MappetTests\bin\Debug\ConsoleApplication2.exe
+C:\Users\Rúben Miranda\Desktop\AVE_1617v_LI41D_G6_SE2_31424\AveTrabalho2\MappetTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Rúben Miranda\Desktop\AVE_1617v_LI41D_G6_SE2_31424\AveTrabalho2\MappetTests\bin\Debug\ConsoleApplication2.pdb
+C:\Users\Rúben Miranda\Desktop\AVE_1617v_LI41D_G6_SE2_31424\AveTrabalho2\MappetTests\obj\Debug\MappetTests.csprojResolveAssemblyReference.cache
+C:\Users\Rúben Miranda\Desktop\AVE_1617v_LI41D_G6_SE2_31424\AveTrabalho2\MappetTests\obj\Debug\MappetTests.dll
+C:\Users\Rúben Miranda\Desktop\AVE_1617v_LI41D_G6_SE2_31424\AveTrabalho2\MappetTests\obj\Debug\MappetTests.pdb
+C:\Users\Rúben Miranda\Desktop\AVE_1617v_LI41D_G6_SE2_31424\AveTrabalho3\MappetTests\bin\Debug\MappetTests.dll
+C:\Users\Rúben Miranda\Desktop\AVE_1617v_LI41D_G6_SE2_31424\AveTrabalho3\MappetTests\bin\Debug\MappetTests.pdb
+C:\Users\Rúben Miranda\Desktop\AVE_1617v_LI41D_G6_SE2_31424\AveTrabalho3\MappetTests\bin\Debug\ConsoleApplication2.exe
+C:\Users\Rúben Miranda\Desktop\AVE_1617v_LI41D_G6_SE2_31424\AveTrabalho3\MappetTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Rúben Miranda\Desktop\AVE_1617v_LI41D_G6_SE2_31424\AveTrabalho3\MappetTests\bin\Debug\ConsoleApplication2.pdb
+C:\Users\Rúben Miranda\Desktop\AVE_1617v_LI41D_G6_SE2_31424\AveTrabalho3\MappetTests\obj\Debug\MappetTests.csprojResolveAssemblyReference.cache
+C:\Users\Rúben Miranda\Desktop\AVE_1617v_LI41D_G6_SE2_31424\AveTrabalho3\MappetTests\obj\Debug\MappetTests.dll
+C:\Users\Rúben Miranda\Desktop\AVE_1617v_LI41D_G6_SE2_31424\AveTrabalho3\MappetTests\obj\Debug\MappetTests.pdb

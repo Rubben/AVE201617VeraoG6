@@ -1,0 +1,29 @@
+C:\Users\Rúben Miranda\Desktop\Isel\AVE\ConsoleApplication2 - Copy\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\Rúben Miranda\Desktop\Isel\AVE\ConsoleApplication2 - Copy\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\Rúben Miranda\Desktop\Isel\AVE\ConsoleApplication2 - Copy\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\Rúben Miranda\Desktop\Isel\AVE\ConsoleApplication2 - Copy\ConsoleApplication2\obj\Debug\AveTrabalho2.csprojResolveAssemblyReference.cache
+C:\Users\Rúben Miranda\Desktop\Isel\AVE\ConsoleApplication2 - Copy\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\Rúben Miranda\Desktop\Isel\AVE\ConsoleApplication2 - Copy\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\Rúben Miranda\Desktop\Isel\AVE\AveTrabalho2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\Rúben Miranda\Desktop\Isel\AVE\AveTrabalho2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\Rúben Miranda\Desktop\Isel\AVE\AveTrabalho2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\Rúben Miranda\Desktop\Isel\AVE\AveTrabalho2\ConsoleApplication2\obj\Debug\AveTrabalho2.csprojResolveAssemblyReference.cache
+C:\Users\Rúben Miranda\Desktop\Isel\AVE\AveTrabalho2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\Rúben Miranda\Desktop\Isel\AVE\AveTrabalho2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\mari_\Desktop\AVE_1617v_LI41D_G6_SE2_31424\AveTrabalho2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\mari_\Desktop\AVE_1617v_LI41D_G6_SE2_31424\AveTrabalho2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\mari_\Desktop\AVE_1617v_LI41D_G6_SE2_31424\AveTrabalho2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\mari_\Desktop\AVE_1617v_LI41D_G6_SE2_31424\AveTrabalho2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\mari_\Desktop\AVE_1617v_LI41D_G6_SE2_31424\AveTrabalho2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\Rúben Miranda\Desktop\AVE_1617v_LI41D_G6_SE2_31424\AveTrabalho2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\Rúben Miranda\Desktop\AVE_1617v_LI41D_G6_SE2_31424\AveTrabalho2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\Rúben Miranda\Desktop\AVE_1617v_LI41D_G6_SE2_31424\AveTrabalho2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\Rúben Miranda\Desktop\AVE_1617v_LI41D_G6_SE2_31424\AveTrabalho2\ConsoleApplication2\obj\Debug\AveTrabalho2.csprojResolveAssemblyReference.cache
+C:\Users\Rúben Miranda\Desktop\AVE_1617v_LI41D_G6_SE2_31424\AveTrabalho2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\Rúben Miranda\Desktop\AVE_1617v_LI41D_G6_SE2_31424\AveTrabalho2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\Rúben Miranda\Desktop\AVE_1617v_LI41D_G6_SE2_31424\AveTrabalho3\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\Rúben Miranda\Desktop\AVE_1617v_LI41D_G6_SE2_31424\AveTrabalho3\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\Rúben Miranda\Desktop\AVE_1617v_LI41D_G6_SE2_31424\AveTrabalho3\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\Rúben Miranda\Desktop\AVE_1617v_LI41D_G6_SE2_31424\AveTrabalho3\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\Rúben Miranda\Desktop\AVE_1617v_LI41D_G6_SE2_31424\AveTrabalho3\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\Rúben Miranda\Desktop\AVE_1617v_LI41D_G6_SE2_31424\AveTrabalho3\ConsoleApplication2\obj\Debug\AveTrabalho2.csprojResolveAssemblyReference.cache
