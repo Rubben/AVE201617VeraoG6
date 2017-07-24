@@ -33,9 +33,9 @@ namespace AveTrabalho2.Mapping
             {
                 string a = aux.Name;
                 FieldInfo transTofield = t2.GetField(a);
-                if (transTofield != null && aux.GetValue(transfrom)!=null && transTofield.FieldType==aux.FieldType)
+                if (transTofield != null && aux.GetValue(transfrom)!=null )
                 {
-                    if ((aux.FieldType.IsPrimitive && transTofield.FieldType.IsPrimitive) || (aux.FieldType == typeof(string) && transTofield.FieldType == typeof(string)))
+                    if ((aux.FieldType.IsPrimitive && transTofield.FieldType.IsPrimitive) || (aux.FieldType == typeof(string) && transTofield.FieldType == typeof(string))|| transTofield.FieldType == aux.FieldType)
                     {
                       
                         transTofield.SetValue(transTo, aux.GetValue(transfrom));

@@ -25,10 +25,10 @@ namespace AveTrabalho2.Mapping
             {
                 string a = aux.Name;
                 PropertyInfo transToProperty = t2.GetProperty(a);
-                if (transToProperty != null && aux.GetValue(transfrom) != null && transToProperty.PropertyType == aux.PropertyType)
+                if (transToProperty != null && aux.GetValue(transfrom) != null )
                 {
 
-                    if ((aux.PropertyType.IsPrimitive && transToProperty.PropertyType.IsPrimitive) || (aux.PropertyType==typeof(string) && transToProperty.PropertyType == typeof(string)))
+                    if ((aux.PropertyType.IsPrimitive && transToProperty.PropertyType.IsPrimitive) || (aux.PropertyType==typeof(string) && transToProperty.PropertyType == typeof(string)) || transToProperty.PropertyType == aux.PropertyType)
                     {
                         transToProperty.SetValue(transTo, aux.GetValue(transfrom));
                     }
